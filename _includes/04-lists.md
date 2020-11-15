@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* a, b, c
+* is as easy as
+* 1, 2 ,3
